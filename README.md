@@ -16,10 +16,10 @@ In this project we were asked to implement a database for a fictonal music festi
 ```
 Inside the MySQL command-line interface, run the following in order:
 ```
-  source /path/to/your/DataBase/festival_database.sql
-  source /path/to/your/DataBase/procedures.sql
-  source /path/to/your/DataBase/indices.sql
-  source /path/to/your/DataBase/fake_data.sql
+  source /path/to/your/database/festival_database.sql
+  source /path/to/your/database/procedures.sql
+  source /path/to/your/database/indices.sql
+  source /path/to/your/database/fake_data.sql
 ```
 ## License
 This project uses the [MIT License](https://github.com/PhilipRoussos/music-festival-database-ece-ntua/edit/main/LICENSE)
