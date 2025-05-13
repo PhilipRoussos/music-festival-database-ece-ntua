@@ -13,3 +13,11 @@ Project for the "Databases" course in ECE NTUA. Its purpose is to implement a co
   mysql -h "server-name" -u "your_username" -p "your_password"
 ```
 Inside the MySQL command-line interface, run the following in order:
+```
+  source /path/to/your/DataBase/festival_database.sql
+  source /path/to/your/DataBase/procedures.sql
+  source /path/to/your/DataBase/indices.sql
+  source /path/to/your/DataBase/fake_data.sql
+```
+## License
+This project uses the [MIT License](https://github.com/PhilipRoussos/music-festival-database-ece-ntua/edit/main/LICENSE)
