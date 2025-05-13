@@ -1,29 +1,31 @@
-+-----------+---------------------+---------------------+
-| artist_id | artist_name         | participation_count |
-+-----------+---------------------+---------------------+
-|         1 | William Morris      |                   1 |
-|         2 | Alexa Hall          |                   2 |
-|         4 | Richard Wright      |                   2 |
-|         5 | Audrey Neal         |                   2 |
-|         6 | Johnny Green        |                   1 |
-|         7 | Amanda Ortiz        |                   2 |
-|         9 | Travis Jones        |                   2 |
-|        10 | Mitchell Price      |                   1 |
-|        16 | Matthew Martin      |                   1 |
-|        17 | Jamie Payne         |                   1 |
-|        18 | Andrew Davis        |                   2 |
-|        19 | John Griffith       |                   2 |
-|        20 | John Mason          |                   2 |
-|        21 | Leslie Brown        |                   2 |
-|        23 | Miguel Baker        |                   0 |
-|        25 | Amber Kemp          |                   1 |
-|        26 | Katrina Williams    |                   1 |
-|        27 | Paul Anderson       |                   1 |
-|        29 | Kim Williams        |                   2 |
-|        30 | Anthony Cole        |                   1 |
-|        33 | Nathaniel Smith Jr. |                   2 |
-|        34 | Gabriel Carpenter   |                   1 |
-|        37 | Amanda Silva        |                   1 |
-|        38 | Kelly Hopkins       |                   1 |
-|        40 | Samantha Wade       |                   2 |
-+-----------+---------------------+---------------------+
++-----------+-----------------------+---------------------+
+| artist_id | artist_name           | participation_count |
++-----------+-----------------------+---------------------+
+|         1 | Gordon Lewis          |                   1 |
+|         2 | Holly Jensen          |                   2 |
+|         3 | Dr. Timothy Hernandez |                   2 |
+|         4 | Ryan Jacobs           |                   1 |
+|         5 | Cody Pacheco          |                   2 |
+|         6 | Jessica Willis        |                   1 |
+|         7 | Adrian Wilcox         |                   1 |
+|         8 | Mrs. Sarah Hall       |                   2 |
+|         9 | Mary Byrd             |                   1 |
+|        10 | Denise Powell         |                   1 |
+|        12 | Andrea Jones          |                   2 |
+|        14 | Kelly Warren          |                   1 |
+|        15 | Michael Figueroa      |                   1 |
+|        19 | Amanda Jimenez        |                   1 |
+|        20 | Michael Phillips      |                   1 |
+|        23 | Amanda Lee            |                   1 |
+|        24 | Holly Cox             |                   2 |
+|        26 | Garrett Hoffman       |                   1 |
+|        28 | Roberta Nichols       |                   2 |
+|        32 | Kyle Wood             |                   1 |
+|        33 | Betty Fischer         |                   1 |
+|        35 | Susan Smith           |                   1 |
+|        36 | Dr. Jessica Williams  |                   1 |
+|        37 | Nichole Shelton       |                   2 |
+|        38 | James Adams           |                   1 |
+|        39 | Cheyenne Reeves       |                   1 |
+|        40 | Patricia Morgan       |                   2 |
++-----------+-----------------------+---------------------+
