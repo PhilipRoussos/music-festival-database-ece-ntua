@@ -1,0 +1,10 @@
++-----------+----------------+----------------+
+| Artist ID | Artist Name    | Participations |
++-----------+----------------+----------------+
+|        19 | John Griffith  |             21 |
+|         8 | Craig Freeman  |             16 |
+|        18 | Andrew Davis   |             16 |
+|        31 | Kathryn Stuart |             11 |
+|        25 | Amber Kemp     |              8 |
+|        30 | Anthony Cole   |              8 |
++-----------+----------------+----------------+

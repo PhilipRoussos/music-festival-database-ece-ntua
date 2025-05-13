@@ -1,0 +1,18 @@
++-----------+---------------------+----------------------+
+| Artist ID | Artist Name         | Participated in 2025 |
++-----------+---------------------+----------------------+
+|        37 | Amanda Silva        | Yes                  |
+|        25 | Amber Kemp          | Yes                  |
+|        18 | Andrew Davis        | No                   |
+|        12 | Cameron Mcmillan    | Yes                  |
+|        34 | Gabriel Carpenter   | Yes                  |
+|        17 | Jamie Payne         | Yes                  |
+|        22 | Jennifer Harris     | Yes                  |
+|         6 | Johnny Green        | No                   |
+|        39 | Monica Mcconnell    | Yes                  |
+|        33 | Nathaniel Smith Jr. | Yes                  |
+|        27 | Paul Anderson       | Yes                  |
+|         9 | Travis Jones        | Yes                  |
+|         9 | Travis Jones        | Yes                  |
+|         1 | William Morris      | Yes                  |
++-----------+---------------------+----------------------+

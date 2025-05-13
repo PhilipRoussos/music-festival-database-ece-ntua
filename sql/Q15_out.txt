@@ -1,0 +1,9 @@
++-------------------+---------------------+-----------------------------+
+| visitor_name      | context_artist_name | total_combined_rating_score |
++-------------------+---------------------+-----------------------------+
+| Elizabeth Bennett | William Morris      |                          60 |
+| Antonio Duffy     | William Morris      |                          42 |
+| Haley Jackson     | William Morris      |                          40 |
+| Thomas Shelton    | William Morris      |                          38 |
+| Lisa Evans        | William Morris      |                          38 |
++-------------------+---------------------+-----------------------------+

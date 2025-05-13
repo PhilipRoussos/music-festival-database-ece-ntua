@@ -1,0 +1,6 @@
++----------+----------------+---------------+
+| Staff ID | Staff Name     | specialty     |
++----------+----------------+---------------+
+|       22 | Katelyn Smith  | support staff |
+|       39 | Micheal Jordan | support staff |
++----------+----------------+---------------+

@@ -1,0 +1,34 @@
++---------------+----------------+---------------+
+| Festival Year | Payment Method | Total Revenue |
++---------------+----------------+---------------+
+|          2018 | bank deposit   |        887.06 |
+|          2018 | credit card    |        528.79 |
+|          2018 | debit card     |        412.77 |
+|          2019 | bank deposit   |       1216.54 |
+|          2019 | credit card    |        574.37 |
+|          2019 | debit card     |        932.11 |
+|          2020 | bank deposit   |        854.51 |
+|          2020 | credit card    |        219.67 |
+|          2020 | debit card     |        311.67 |
+|          2021 | bank deposit   |       1125.94 |
+|          2021 | credit card    |       1227.96 |
+|          2021 | debit card     |       1047.04 |
+|          2022 | bank deposit   |        431.30 |
+|          2022 | credit card    |        338.84 |
+|          2022 | debit card     |        631.84 |
+|          2023 | bank deposit   |        854.31 |
+|          2023 | credit card    |        320.35 |
+|          2023 | debit card     |        614.28 |
+|          2024 | bank deposit   |         85.89 |
+|          2024 | credit card    |        398.23 |
+|          2024 | debit card     |        610.59 |
+|          2025 | bank deposit   |        763.24 |
+|          2025 | credit card    |       1651.10 |
+|          2025 | debit card     |       1012.84 |
+|          2026 | bank deposit   |       2285.61 |
+|          2026 | credit card    |       2460.46 |
+|          2026 | debit card     |       1378.35 |
+|          2027 | bank deposit   |        325.17 |
+|          2027 | credit card    |        644.94 |
+|          2027 | debit card     |        340.51 |
++---------------+----------------+---------------+

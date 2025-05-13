@@ -1,0 +1,29 @@
++-----------+---------------------+---------------------+
+| artist_id | artist_name         | participation_count |
++-----------+---------------------+---------------------+
+|         1 | William Morris      |                   1 |
+|         2 | Alexa Hall          |                   2 |
+|         4 | Richard Wright      |                   2 |
+|         5 | Audrey Neal         |                   2 |
+|         6 | Johnny Green        |                   1 |
+|         7 | Amanda Ortiz        |                   2 |
+|         9 | Travis Jones        |                   2 |
+|        10 | Mitchell Price      |                   1 |
+|        16 | Matthew Martin      |                   1 |
+|        17 | Jamie Payne         |                   1 |
+|        18 | Andrew Davis        |                   2 |
+|        19 | John Griffith       |                   2 |
+|        20 | John Mason          |                   2 |
+|        21 | Leslie Brown        |                   2 |
+|        23 | Miguel Baker        |                   0 |
+|        25 | Amber Kemp          |                   1 |
+|        26 | Katrina Williams    |                   1 |
+|        27 | Paul Anderson       |                   1 |
+|        29 | Kim Williams        |                   2 |
+|        30 | Anthony Cole        |                   1 |
+|        33 | Nathaniel Smith Jr. |                   2 |
+|        34 | Gabriel Carpenter   |                   1 |
+|        37 | Amanda Silva        |                   1 |
+|        38 | Kelly Hopkins       |                   1 |
+|        40 | Samantha Wade       |                   2 |
++-----------+---------------------+---------------------+

@@ -1,0 +1,30 @@
++-----------+----------------------+------------------+
+| Artist ID | Artist Name          | Continent Number |
++-----------+----------------------+------------------+
+|        11 | John Fernandez       |                4 |
+|        14 | Michael Lee          |                4 |
+|        31 | Kathryn Stuart       |                4 |
+|         1 | William Morris       |                4 |
+|        17 | Jamie Payne          |                4 |
+|        34 | Gabriel Carpenter    |                4 |
+|        24 | Darius Joseph        |                4 |
+|        40 | Samantha Wade        |                4 |
+|        27 | Paul Anderson        |                4 |
+|        13 | Robert Carey         |                4 |
+|        33 | Nathaniel Smith Jr.  |                4 |
+|        19 | John Griffith        |                4 |
+|        36 | Tracey Salas         |                4 |
+|        22 | Jennifer Harris      |                4 |
+|         9 | Travis Jones         |                4 |
+|        12 | Cameron Mcmillan     |                4 |
+|        32 | Henry Hogan          |                4 |
+|         5 | Audrey Neal          |                4 |
+|         8 | Craig Freeman        |                4 |
+|        25 | Amber Kemp           |                4 |
+|        28 | Victor Schwartz      |                3 |
+|        37 | Amanda Silva         |                3 |
+|         7 | Amanda Ortiz         |                3 |
+|        30 | Anthony Cole         |                3 |
+|        39 | Monica Mcconnell     |                3 |
+|        35 | Mrs. Elizabeth Jones |                3 |
++-----------+----------------------+------------------+
