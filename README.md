@@ -4,7 +4,7 @@ Project for the "Databases" course in ECE NTUA. Its purpose is to implement a co
 ## Contributors
 - [Palaiokostas Marios](https://github.com/Mariosplk)
 - [Panagiotarakos Alexios](https://github.com/alexp9904)
-- [Roussos Filippos](https://github.com/PhilipRoussos)
+- [Roussos Philippos](https://github.com/PhilipRoussos)
 
 ## Installation
 - Ensure that you have MySQL Server installed on you system.
