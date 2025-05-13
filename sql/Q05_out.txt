@@ -1,10 +1,10 @@
-+-----------+----------------+----------------+
-| Artist ID | Artist Name    | Participations |
-+-----------+----------------+----------------+
-|        19 | John Griffith  |             21 |
-|         8 | Craig Freeman  |             16 |
-|        18 | Andrew Davis   |             16 |
-|        31 | Kathryn Stuart |             11 |
-|        25 | Amber Kemp     |              8 |
-|        30 | Anthony Cole   |              8 |
-+-----------+----------------+----------------+
++-----------+----------------------+----------------+
+| Artist ID | Artist Name          | Participations |
++-----------+----------------------+----------------+
+|        24 | Holly Cox            |             14 |
+|        36 | Dr. Jessica Williams |              7 |
+|        10 | Denise Powell        |              7 |
+|        37 | Nichole Shelton      |              5 |
+|        38 | James Adams          |              4 |
+|        33 | Betty Fischer        |              4 |
++-----------+----------------------+----------------+
