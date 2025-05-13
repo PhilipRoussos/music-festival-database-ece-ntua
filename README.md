@@ -1,7 +1,7 @@
 # Music Festival Management System
 Project for the "Databases" course in ECE NTUA.
 
-In this project we were asked to implement a database for a fictional music festival, more details about the exercise in [docs/exercise.pdf](https://github.com/PhilipRoussos/music-festival-database-ece-ntua/blob/main/docs/exercise.pdf). The process involved designing the ER and Relational Diagrams, implementing the SQL schema and procedures, in MySQL, generating fake data using a Python script with the assistance of AI and lastly implementing and executing the queries.
+In this project we were asked to implement a database for a fictional music festival, more details about the exercise in [docs/exercise.pdf](https://github.com/PhilipRoussos/music-festival-database-ece-ntua/blob/main/docs/exercise.pdf). The process involved designing the [ER](https://github.com/PhilipRoussos/music-festival-database-ece-ntua/blob/main/diagrams/er.pdf) and Relational Diagrams, implementing the SQL schema and procedures, in MySQL, generating fake data using a Python script with the assistance of AI and lastly implementing and executing the queries.
 
 ## Contributors
 - [Palaiokostas Marios](https://github.com/Mariosplk)
