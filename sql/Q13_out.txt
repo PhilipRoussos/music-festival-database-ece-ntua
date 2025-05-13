@@ -1,30 +1,36 @@
-+-----------+----------------------+------------------+
-| Artist ID | Artist Name          | Continent Number |
-+-----------+----------------------+------------------+
-|        11 | John Fernandez       |                4 |
-|        14 | Michael Lee          |                4 |
-|        31 | Kathryn Stuart       |                4 |
-|         1 | William Morris       |                4 |
-|        17 | Jamie Payne          |                4 |
-|        34 | Gabriel Carpenter    |                4 |
-|        24 | Darius Joseph        |                4 |
-|        40 | Samantha Wade        |                4 |
-|        27 | Paul Anderson        |                4 |
-|        13 | Robert Carey         |                4 |
-|        33 | Nathaniel Smith Jr.  |                4 |
-|        19 | John Griffith        |                4 |
-|        36 | Tracey Salas         |                4 |
-|        22 | Jennifer Harris      |                4 |
-|         9 | Travis Jones         |                4 |
-|        12 | Cameron Mcmillan     |                4 |
-|        32 | Henry Hogan          |                4 |
-|         5 | Audrey Neal          |                4 |
-|         8 | Craig Freeman        |                4 |
-|        25 | Amber Kemp           |                4 |
-|        28 | Victor Schwartz      |                3 |
-|        37 | Amanda Silva         |                3 |
-|         7 | Amanda Ortiz         |                3 |
-|        30 | Anthony Cole         |                3 |
-|        39 | Monica Mcconnell     |                3 |
-|        35 | Mrs. Elizabeth Jones |                3 |
-+-----------+----------------------+------------------+
++-----------+-----------------------+------------------+
+| Artist ID | Artist Name           | Continent Number |
++-----------+-----------------------+------------------+
+|        31 | Juan Brooks           |                5 |
+|        21 | Christopher Smith     |                5 |
+|        27 | Connor Mcdowell       |                5 |
+|        20 | Michael Phillips      |                5 |
+|         7 | Adrian Wilcox         |                5 |
+|        19 | Amanda Jimenez        |                5 |
+|        35 | Susan Smith           |                5 |
+|         3 | Dr. Timothy Hernandez |                5 |
+|        22 | Carly Carpenter       |                4 |
+|         6 | Jessica Willis        |                4 |
+|        15 | Michael Figueroa      |                4 |
+|        34 | Tyler Rodriguez       |                4 |
+|         2 | Holly Jensen          |                4 |
+|        24 | Holly Cox             |                4 |
+|         8 | Mrs. Sarah Hall       |                4 |
+|        14 | Kelly Warren          |                4 |
+|        36 | Dr. Jessica Williams  |                4 |
+|         4 | Ryan Jacobs           |                4 |
+|        39 | Cheyenne Reeves       |                4 |
+|        10 | Denise Powell         |                4 |
+|        13 | Amy Hall              |                4 |
+|        16 | Brenda Sanders        |                4 |
+|        32 | Kyle Wood             |                4 |
+|        38 | James Adams           |                3 |
+|         9 | Mary Byrd             |                3 |
+|        28 | Roberta Nichols       |                3 |
+|        37 | Nichole Shelton       |                3 |
+|        11 | Sally Perez           |                3 |
+|        30 | Philip Johnson        |                3 |
+|        17 | John Russell          |                3 |
+|         1 | Gordon Lewis          |                3 |
+|        26 | Garrett Hoffman       |                3 |
++-----------+-----------------------+------------------+
