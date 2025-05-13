@@ -1,6 +1,117 @@
-+----------+----------------+---------------+
-| Staff ID | Staff Name     | specialty     |
-+----------+----------------+---------------+
-|       22 | Katelyn Smith  | support staff |
-|       39 | Micheal Jordan | support staff |
-+----------+----------------+---------------+
++----------+---------------------+---------------+
+| Staff ID | Staff Name          | specialty     |
++----------+---------------------+---------------+
+|      239 | Albert Gonzalez     | support staff |
+|      185 | Alejandro Watson    | support staff |
+|       94 | Alyssa Bell         | support staff |
+|      270 | Amanda Alexander    | support staff |
+|      205 | Amanda Green        | support staff |
+|      196 | Amy Wilson          | support staff |
+|       30 | Andrea Haas         | support staff |
+|       65 | Andrea Hickman      | support staff |
+|      301 | Andrea Rodriguez    | support staff |
+|      172 | Angela Martin DDS   | support staff |
+|      245 | Angela Palmer       | support staff |
+|       58 | Angela Patton       | support staff |
+|      290 | Annette Young       | support staff |
+|      230 | Ashley Baker        | support staff |
+|      277 | Becky Mitchell      | support staff |
+|      162 | Brandi Torres       | support staff |
+|      336 | Brandon Lopez       | support staff |
+|      132 | Brandon Silva       | support staff |
+|      106 | Brian Nelson        | support staff |
+|      117 | Bryan Griffin       | support staff |
+|      339 | Carolyn Wiley       | support staff |
+|      100 | Casey Williams      | support staff |
+|      233 | Chad Owens          | support staff |
+|       38 | Christina Tucker    | support staff |
+|       60 | Christopher Knox    | support staff |
+|      173 | Claire Norris       | support staff |
+|      335 | Corey Bender        | support staff |
+|      189 | Cory Ferrell        | support staff |
+|      153 | Courtney Harding    | support staff |
+|      346 | Cynthia Rivera      | support staff |
+|      176 | Dale Garcia         | support staff |
+|      241 | Daniel Huffman      | support staff |
+|      207 | Daniel Pratt        | support staff |
+|       55 | Danielle Smith      | support staff |
+|      257 | David Ayers         | support staff |
+|      154 | David Davis         | support staff |
+|      310 | David Frye          | support staff |
+|      304 | David Wright        | support staff |
+|      252 | Dawn Solis          | support staff |
+|      146 | Debbie Pierce       | support staff |
+|      171 | Deborah Daugherty   | support staff |
+|       14 | Deborah White       | support staff |
+|      104 | Diane Estes MD      | support staff |
+|      130 | Dominic Riley       | support staff |
+|      138 | Douglas Williams    | support staff |
+|       89 | Elizabeth Perry PhD | support staff |
+|      318 | Geoffrey Wood       | support staff |
+|      295 | Jacqueline Butler   | support staff |
+|       31 | Jaime Choi          | support staff |
+|       92 | Janet Foster        | support staff |
+|       61 | Jared Hebert        | support staff |
+|      244 | Jason Collins       | support staff |
+|      278 | Jason Fuentes       | support staff |
+|      235 | Jennifer Huffman    | support staff |
+|       13 | Jennifer Peck       | support staff |
+|      136 | Jessica Glover      | support staff |
+|      309 | Jessica Reeves      | support staff |
+|      175 | Jesus Reynolds      | support staff |
+|       73 | Jillian Tate        | support staff |
+|      139 | Jody Sims           | support staff |
+|      327 | John Gardner        | support staff |
+|      250 | John Harrison       | support staff |
+|       45 | John Kelly          | support staff |
+|       81 | Joseph Sanchez      | support staff |
+|      328 | Juan Rodriguez      | support staff |
+|      165 | Justin Jackson      | support staff |
+|      236 | Kathleen Thomas     | support staff |
+|      317 | Kayla Cruz          | support staff |
+|        7 | Kelly Harris        | support staff |
+|      315 | Kenneth Curtis      | support staff |
+|       62 | Kevin Garrison      | support staff |
+|      306 | Kevin Sloan         | support staff |
+|      325 | Krystal Parker      | support staff |
+|      330 | Laura Robinson      | support staff |
+|      247 | Laura Villa MD      | support staff |
+|        2 | Linda Mooney        | support staff |
+|      284 | Mary Ruiz           | support staff |
+|      112 | Matthew Hernandez   | support staff |
+|      158 | Mckenzie Walsh      | support staff |
+|      349 | Megan Flores        | support staff |
+|      280 | Megan Silva         | support staff |
+|      159 | Melinda Curtis      | support staff |
+|      118 | Michael Davis       | support staff |
+|      140 | Misty Harris        | support staff |
+|       10 | Molly Park          | support staff |
+|       51 | Mrs. Angela Rice    | support staff |
+|      240 | Mrs. Anna Walters   | support staff |
+|      297 | Nancy Conley        | support staff |
+|      234 | Pamela Adams        | support staff |
+|      261 | Pamela Wolf         | support staff |
+|       70 | Paul Fernandez      | support staff |
+|      229 | Paul Noble          | support staff |
+|      128 | Paul Williams       | support staff |
+|      221 | Peggy Edwards       | support staff |
+|      307 | Penny Dickson       | support staff |
+|       96 | Regina Pennington   | support staff |
+|       66 | Robert Hall         | support staff |
+|       59 | Samuel Ryan         | support staff |
+|      268 | Samuel Sanchez      | support staff |
+|      228 | Scott Anderson      | support staff |
+|       40 | Scott Flynn         | support staff |
+|      215 | Scott Smith         | support staff |
+|      232 | Shawn Conway        | support staff |
+|      279 | Shelly Carlson      | support staff |
+|       19 | Tammy Mendez        | support staff |
+|       36 | Taylor Waller       | support staff |
+|        9 | Teresa Bennett      | support staff |
+|       18 | Timothy Gamble      | support staff |
+|      294 | Tracey Maynard      | support staff |
+|      113 | Troy Alvarado       | support staff |
+|      238 | Tyler Rhodes        | support staff |
+|       53 | Victoria Thomas     | support staff |
+|       76 | William Choi        | support staff |
++----------+---------------------+---------------+
