@@ -17,3 +17,26 @@ GROUP BY
 ORDER BY
     P.performance_id ASC;
 ------------
+
+--Query #6 Force Index--
+CREATE INDEX idx_ticket_attendee_activated ON ticket (attendee_id, activated);
+
+ANALYZE
+SELECT
+    P.performance_id AS 'Performance ID',
+    T.attendee_id AS 'Attendee ID',
+    AVG((R.artist_performance + R.stage_presence + R.setup + R.sound_and_lighting + R.overall_impression) / 5.0) AS 'Average Rating'
+FROM
+     ticket T FORCE INDEX (idx_ticket_attendee_activated)
+JOIN festival_event FE ON T.event_id = FE.event_id
+JOIN rating R ON T.IAN_number = R.IAN_number 
+JOIN performance P ON R.performance_id = P.performance_id 
+WHERE
+    T.attendee_id = 3
+    AND T.activated = TRUE
+    AND P.event_id = FE.event_id 
+GROUP BY
+    P.performance_id
+ORDER BY
+    P.performance_id ASC;
+----------------------
